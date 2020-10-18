@@ -19,4 +19,7 @@ if (hack == true) {
             }
         }
     }
+    if(r_number == r_access) {
+        console.log("Good day!");
+    }
 }

@@ -1,6 +1,6 @@
 var hack = false;
-var number = getRandomInRange(100000, 999999);
-var access = getRandomInRange(100000, 999999);
+var number = getRandomInRange(10, 99);
+var access = getRandomInRange(10, 99);
 
 if (access != number) {
     hack = true;
